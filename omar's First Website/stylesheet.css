@@ -1,0 +1,48 @@
+body {
+ background-color: green;    
+}
+
+
+
+img {
+border-radius: 200px;
+    width: 50%;
+height: 25%;
+border-width: 10px;
+border-style: solid;
+border-color: darkred;
+display: block;
+margin-left: 25%;
+margin-right: 25%;
+}
+
+div {
+
+
+
+}
+
+#header {
+background-color: aqua;
+}
+
+#navlinks {
+position: fixed;
+}
+
+#list {
+ border-width: 1px;
+ border-style: solid;  
+ border-color: aqua;
+ padding: 15px;
+ margin-left: 35%; 
+}
+
+#bigspace {
+    font-size: 9999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999px;
+}
+
+#footer {
+    background-color: aqua;
+    text-align: center;
+}
